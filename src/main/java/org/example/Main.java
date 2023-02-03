@@ -13,7 +13,7 @@ public class Main {
         zoo.add(a2);
         Animal a3 = new Animal("Horse", 'h');
         zoo.add(a3);
-        Animal a4 = new Animal("Tiger", 'c');
+        Animal a4 = new Animal("Panther", 'c');
         zoo.add(a4);
 
         List<Animal> carnivorous = new Vector<Animal>();
